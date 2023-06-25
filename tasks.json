@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "taskNum": 1,
+            "name": "This is the new description",
+            "description": "The function will add save alterations to the tasks file"
+        },
+        {
+            "taskNum": 2,
+            "name": "Complete Task Function",
+            "description": "The ability to mark a function as completed. Followed by deletion at the end of the session."
+        },
+        {
+            "taskNum": 3,
+            "name": "Remove task",
+            "description": "A function that will remove the current task. Also reassign taskNum"
+        },
+        {
+            "taskNum": 4,
+            "name": "Review all of the functions",
+            "description": "make sure each function works as expected and look for ways to make improvements"
+        }
+    ]
+}
