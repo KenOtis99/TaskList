@@ -63,4 +63,5 @@ def main():
 			cont = input("Please press any key to continue...")
 
 	
-main()
+if __name__ == "__main__":
+    main()
