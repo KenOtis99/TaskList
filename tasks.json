@@ -2,13 +2,18 @@
     "tasks": [
         {
             "taskNum": 1,
-            "name": "This is the new description",
-            "description": "The function will add save alterations to the tasks file"
+            "name": "Task 1",
+            "description": "Description of Task 1"
         },
         {
             "taskNum": 2,
-            "name": "Push to Github",
-            "description": "Pushing changes from local"
+            "name": "Task 2",
+            "description": "Description of Task 2"
+        },
+        {
+            "taskNum": 4,
+            "name": "Set up Weather API",
+            "description": "Weather API setup"
         }
     ]
 }
